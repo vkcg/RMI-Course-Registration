@@ -1,0 +1,4 @@
+0001	cpsm	it is programming course.	1
+0002	aos	Focusses on distributed systems.	1
+0003	daa	Focusses on design of agorithms.	1
+0004	dbms	Focusses on databases.	1

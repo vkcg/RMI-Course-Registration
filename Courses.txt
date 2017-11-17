@@ -1,0 +1,1 @@
+cpsm	aos	daa	dbms

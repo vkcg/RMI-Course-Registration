@@ -1,0 +1,9 @@
+1	Mon 1:00pm to 3:50pm
+2	Tue 4:00pm to 6:50pm
+3	Wed 1:00pm to 3:50pm
+4	Thu 7:00pm to 9:50pm
+5	Mon 4:00pm to 6:50pm
+6	Mon,Wed 1:00pm to 2:20pm
+7	Tue,Thu 4:00pm to 5:20pm
+8	Thu 1:00pm to 3:50pm
+9	Wed 4:00pm to 6:50pm
